@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7229008E-FD78-4261-8BB0-59710B7746AD}|BTVN_B1\\BTVN_B1.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7229008E-FD78-4261-8BB0-59710B7746AD}|BTVN_B1\\BTVN_B1.vcxproj|solutionrelative:BTVN_B1\\Bai14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7229008E-FD78-4261-8BB0-59710B7746AD}|BTVN_B1\\BTVN_B1.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7229008E-FD78-4261-8BB0-59710B7746AD}|BTVN_B1\\BTVN_B1.vcxproj|solutionrelative:BTVN_B1\\Bai13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai14.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai14.cpp",
+              "RelativeDocumentMoniker": "BTVN_B1\\Bai14.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai14.cpp",
+              "RelativeToolTip": "BTVN_B1\\Bai14.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T10:36:10.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai13.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai13.cpp",
               "RelativeDocumentMoniker": "BTVN_B1\\Bai13.cpp",
               "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai13.cpp",
               "RelativeToolTip": "BTVN_B1\\Bai13.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-28T10:24:02.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai12.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai12.cpp",
               "RelativeDocumentMoniker": "BTVN_B1\\Bai12.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "BTVN_B1\\Bai12.cpp",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAEcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-28T09:07:15.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T09:07:15.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai11.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai11.cpp",
               "RelativeDocumentMoniker": "BTVN_B1\\Bai11.cpp",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "BTVN_B1\\Bai11.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-28T08:44:46.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T08:44:46.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Bai10.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai10.cpp",
               "RelativeDocumentMoniker": "BTVN_B1\\Bai10.cpp",
@@ -89,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bai9.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BTVN_B1\\BTVN_B1\\Bai9.cpp",
               "RelativeDocumentMoniker": "BTVN_B1\\Bai9.cpp",
