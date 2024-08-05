@@ -1,2 +1,3 @@
-﻿  Bai10.cpp
+﻿  Bai12.cpp
+D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\BaiTapVN_Buoi5\Bai12.cpp(19,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
   BaiTapVN_Buoi5.vcxproj -> D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\x64\Debug\BaiTapVN_Buoi5.exe

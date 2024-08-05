@@ -23,10 +23,10 @@ int fibonacci(int n) {
 }
 
 
-int main() {
-    int i;
-    printf("10 so dau tien cua day so Fibonacci: \n");
-    for (i = 0; i < 10; i++) {
-        printf("%d ", fibonacci(i));
-    }
-}
+//int main() {
+//    int i;
+//    printf("10 so dau tien cua day so Fibonacci: \n");
+//    for (i = 0; i < 10; i++) {
+//        printf("%d ", fibonacci(i));
+//    }
+//}
