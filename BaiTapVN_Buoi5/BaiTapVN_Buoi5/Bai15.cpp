@@ -9,9 +9,9 @@ int A(int n) {
 		return n * A(i);
 	}
 }
-void main() {
-	int n;
-	printf("nhap n: ");
-	scanf_s("%d", &n);
-	printf("so A can tim la: %d", A(n));
-}
+//void main() {
+//	int n;
+//	printf("nhap n: ");
+//	scanf_s("%d", &n);
+//	printf("so A can tim la: %d", A(n));
+//}
