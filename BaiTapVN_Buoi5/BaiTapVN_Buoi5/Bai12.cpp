@@ -16,10 +16,10 @@ int y(int n) {
 	}
 	return 3 * x(n - 1) + 2 * y(n - 1);
 }
-void main() {
-	int n;
-	printf("nhap so can tinh: ");
-	scanf_s("%d", &n);
-	printf("\nx thu n la: %d", x(n));
-	printf("\ny thu n la: %d", y(n));
-}
+//void main() {
+//	int n;
+//	printf("nhap so can tinh: ");
+//	scanf_s("%d", &n);
+//	printf("\nx thu n la: %d", x(n));
+//	printf("\ny thu n la: %d", y(n));
+//}

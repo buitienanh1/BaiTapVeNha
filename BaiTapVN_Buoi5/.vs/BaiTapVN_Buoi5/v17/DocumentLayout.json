@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|solutionrelative:BaiTapVN_Buoi5\\Bai15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|solutionrelative:BaiTapVN_Buoi5\\Bai14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|solutionrelative:BaiTapVN_Buoi5\\Bai13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ED27E220-8AB5-4C12-93E5-35ECE2D22D5B}|BaiTapVN_Buoi5\\BaiTapVN_Buoi5.vcxproj|solutionrelative:BaiTapVN_Buoi5\\Bai12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai15.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai15.cpp",
+              "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai15.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai15.cpp",
+              "RelativeToolTip": "BaiTapVN_Buoi5\\Bai15.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T19:55:03.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai14.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai14.cpp",
+              "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai14.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai14.cpp",
+              "RelativeToolTip": "BaiTapVN_Buoi5\\Bai14.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T19:34:15.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai13.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai13.cpp",
+              "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai13.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai13.cpp",
+              "RelativeToolTip": "BaiTapVN_Buoi5\\Bai13.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T19:25:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Bai12.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai12.cpp",
               "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai12.cpp",
               "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai12.cpp",
               "RelativeToolTip": "BaiTapVN_Buoi5\\Bai12.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-05T18:58:16.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Bai10.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai10.cpp",
               "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai10.cpp",
@@ -55,12 +106,11 @@
               "RelativeToolTip": "BaiTapVN_Buoi5\\Bai10.cpp",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T16:49:01.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:49:01.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Bai11.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai11.cpp",
               "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai11.cpp",
@@ -68,12 +118,11 @@
               "RelativeToolTip": "BaiTapVN_Buoi5\\Bai11.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T16:55:18.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:55:18.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Bai9.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\BaiTapVN\\BaiTapVeNha\\BaiTapVN_Buoi5\\BaiTapVN_Buoi5\\Bai9.cpp",
               "RelativeDocumentMoniker": "BaiTapVN_Buoi5\\Bai9.cpp",
@@ -81,8 +130,7 @@
               "RelativeToolTip": "BaiTapVN_Buoi5\\Bai9.cpp",
               "ViewState": "AQIAAB8AAAAAAAAAAAAmwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T15:23:48.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T15:23:48.994Z"
             }
           ]
         }

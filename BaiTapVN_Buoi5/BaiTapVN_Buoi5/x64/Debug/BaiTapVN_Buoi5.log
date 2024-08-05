@@ -1,3 +1,7 @@
-﻿  Bai12.cpp
-D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\BaiTapVN_Buoi5\Bai12.cpp(19,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  Bai14.cpp
+  Bai15.cpp
+D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\BaiTapVN_Buoi5\Bai15.cpp(12,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\BaiTapVN_Buoi5\Bai15.cpp(11,1): warning C4715: 'A': not all control paths return a value
+D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\BaiTapVN_Buoi5\Bai14.cpp(13,1): warning C4715: 'u': not all control paths return a value
   BaiTapVN_Buoi5.vcxproj -> D:\ondrive\OneDrive - MSFT\Documents\GitHub\BaiTapVN\BaiTapVeNha\BaiTapVN_Buoi5\x64\Debug\BaiTapVN_Buoi5.exe
