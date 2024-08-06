@@ -8,13 +8,13 @@ int X(int n) {
 	}
 	return X(n - 1) + (n-1) * X(n - 2);
 }
-void main() {
-	int n;
-	printf("nhap n: ");
-	scanf_s("%d", &n);
-	if (n < 3) {
-		printf("\nnhap lai n: ");
-		scanf_s("%d", &n);
-	}
-	printf("\nso X can tim la: %d", X(n));
-}
+//void main() {
+//	int n;
+//	printf("nhap n: ");
+//	scanf_s("%d", &n);
+//	if (n < 3) {
+//		printf("\nnhap lai n: ");
+//		scanf_s("%d", &n);
+//	}
+//	printf("\nso X can tim la: %d", X(n));
+//}
