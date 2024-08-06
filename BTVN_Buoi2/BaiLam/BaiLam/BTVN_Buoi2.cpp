@@ -208,7 +208,7 @@ void menu() {
     printf("Nhap so phan tu cua mang: ");
     scanf_s("%d", &size);
     int* arr = (int*)malloc(size * sizeof(int));
-    printf("Nhap cac phan tu cua mang: ");
+    printf("Nhap cac phan tu cua mang:");
     for (int i = 0; i < size; i++) {
         scanf_s("%d", &arr[i]);
     }
