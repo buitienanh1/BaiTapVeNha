@@ -56,38 +56,38 @@ bool kiemTraChanLeXenKe(const vector<int>& arr) {
     return true;
 }
 
-//int main() {
-//    vector<int> arr = { 1, 2, 3, 4, 5, 6, 7, 8 };
-//
-//    cout << "Cac so cuc tieu: ";
-//    xuatSoCucTieu(arr);
-//
-//    try {
-//        xoaPhanTu(arr, 2);
-//        cout << "Mang sau khi xoa phan tu tai vi tri 2: ";
-//        for (int num : arr) cout << num << " ";
-//        cout << endl;
-//    }
-//    catch (const out_of_range& e) {
-//        cout << e.what() << endl;
-//    }
-//
-//    try {
-//        themPhanTu(arr, 10, 2);
-//        cout << "Mang sau khi them phan tu 10 tai vi tri 2: ";
-//        for (int num : arr) cout << num << " ";
-//        cout << endl;
-//    }
-//    catch (const out_of_range& e) {
-//        cout << e.what() << endl;
-//    }
-//
-//    chuyenChanLenDau(arr);
-//    cout << "Mang sau khi chuyen so chan len dau: ";
-//    for (int num : arr) cout << num << " ";
-//    cout << endl;
-//
-//    cout << "Mang co chua chan le xen ke khong? " << (kiemTraChanLeXenKe(arr) ? "Co" : "Khong") << endl;
-//
-//    return 0;
-//}
+int main() {
+    vector<int> arr = { 1, 2, 3, 4, 5, 6, 7, 8 };
+
+    cout << "Cac so cuc tieu: ";
+    xuatSoCucTieu(arr);
+
+    try {
+        xoaPhanTu(arr, 2);
+        cout << "Mang sau khi xoa phan tu tai vi tri 2: ";
+        for (int num : arr) cout << num << " ";
+        cout << endl;
+    }
+    catch (const out_of_range& e) {
+        cout << e.what() << endl;
+    }
+
+    try {
+        themPhanTu(arr, 10, 2);
+        cout << "Mang sau khi them phan tu 10 tai vi tri 2: ";
+        for (int num : arr) cout << num << " ";
+        cout << endl;
+    }
+    catch (const out_of_range& e) {
+        cout << e.what() << endl;
+    }
+
+    chuyenChanLenDau(arr);
+    cout << "Mang sau khi chuyen so chan len dau: ";
+    for (int num : arr) cout << num << " ";
+    cout << endl;
+
+    cout << "Mang co chua chan le xen ke khong? " << (kiemTraChanLeXenKe(arr) ? "Co" : "Khong") << endl;
+
+    return 0;
+}
