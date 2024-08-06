@@ -12,9 +12,9 @@ int X_Bai18(int n) {
 	}
 	return Tong;
 }
-void main() {
-	int n;
-	printf("nhap n: ");
-	scanf_s("%d", &n);
-	printf("\nso X can tim la: %d", X_Bai18(n));
-}
+//void main() {
+//	int n;
+//	printf("nhap n: ");
+//	scanf_s("%d", &n);
+//	printf("\nso X can tim la: %d", X_Bai18(n));
+//}
