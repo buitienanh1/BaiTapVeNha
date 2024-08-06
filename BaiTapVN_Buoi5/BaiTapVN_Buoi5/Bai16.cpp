@@ -12,13 +12,13 @@ int Y(int n) {
 	}
 	return Y(n - 1) + 2 * Y(n - 2) + 3 * Y(n - 3);
 }
-void main() {
-	int n;
-	printf("nhap n: ");
-	scanf_s("%d", &n);
-	if (n < 4) {
-		printf("\nnhap lai n: ");
-		scanf_s("%d", &n);
-	}
-	printf("\nso Y can tim la: %d", Y(n));
-}
+//void main() {
+//	int n;
+//	printf("nhap n: ");
+//	scanf_s("%d", &n);
+//	if (n < 4) {
+//		printf("\nnhap lai n: ");
+//		scanf_s("%d", &n);
+//	}
+//	printf("\nso Y can tim la: %d", Y(n));
+//}
